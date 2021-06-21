@@ -1,0 +1,49 @@
+.start{
+    height: 100%;
+    width: 100%;
+}
+.hy{
+    color:white;
+    background-color: #255ec7;
+    height: 13mm;
+    width: 100%;
+
+    text-align:center;
+}
+
+
+.navbar{
+    height:18mm;
+    background-color: white;
+}
+.page{
+    background-color: white;
+}
+.badge{
+    font-size: 1rem;
+}
+
+
+
+
+
+    
+.navbar-brand{
+    font-weight: 5000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+
+ color: white;
+
+}
+.sec{
+    text-align: center;
+}
+.fir{
+    height: 12mm;
+    text-align: right;
+}
+.five{
+    background-color:whitesmoke;
+    justify-content: right;
+}
